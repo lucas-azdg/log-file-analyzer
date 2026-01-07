@@ -1,0 +1,9 @@
+INFO User login successful
+INFO File uploaded
+WARNING Disk space low
+ERROR Database connection failed
+INFO User logout
+ERROR Timeout while connecting to server
+WARNING High memory usage
+ERROR Database connection failed
+INFO User login successful
